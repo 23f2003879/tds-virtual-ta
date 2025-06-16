@@ -1,0 +1,14 @@
+providers:
+  - id: "api"
+    config:
+      url: "https://your-deployment-url/api/"
+      method: "POST"
+      headers:
+        Content-Type: application/json
+scenarios:
+  - name: "Sample test"
+    vars:
+      question: "What model should I use for GA5?"
+    assert:
+      - type: contains
+        value: "gpt-3.5"

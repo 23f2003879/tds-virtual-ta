@@ -1,0 +1,647 @@
+[
+  {
+    "topic": "GA4 - Data Sourcing - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-may-2025/178881/1",
+    "content": "Please post any questions related to Graded Assignment 4 - Data Sourcing.\nDeadline: Sunday, June 22, 2025 6:29 PM\n@carlton @Jivraj @HritikRoshan_HRM"
+  },
+  {
+    "topic": "GA4 - Data Sourcing - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-may-2025/178881/2",
+    "content": ""
+  },
+  {
+    "topic": "GA4 - Data Sourcing - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-may-2025/178881/3",
+    "content": "Subject: Issue with Scraping BBC Weather API for Nur-Sultan JSON Forecast\nQuestion 4: Scraping BBC Weather API for Nur-Sultan Weather Forecast\nI\u2019m trying to retrieve the JSON weather forecast description for Nur-Sultan using the BBC Weather API. However, I noticed that the BBC website lists the city as \u201cAstana\u201d instead of Nur-Sultan. When I attempt to use the JSON data for Astana, I encounter the following error:\nTypeError: Cannot read properties of undefined (reading \u2018id\u2019)\nHow should I proceed to correctly scrape the weather forecast for Nur-Sultan?  how can I resolve the TypeError issue? Any guidance on handling city name"
+  },
+  {
+    "topic": "TDS | References | Guidelines",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-references-guidelines/67216/1",
+    "content": "Course Portal\nPublic Course Portal Link\nInstructors\n\nPrasanna - @iamprasna\nCarlton - @carlton\n\nTags Usage\n\nPractice Question - Week-numPractice-question\nGraded Question - Week-numGraded-question\nOperational - operational\nExam - quiz\nProject - project-num\nTerm - termNum-YYYY\n\nCalendar\n\nCourse/subject calendar\n\nImportant Links\n\n\nGrading Document\n\n\nAnnouncement Group\n\n\nOfficial YouTube channel\n\n\nPurpose of ROE\n\n\nCourse Feedback\nHere\u2019s students\u2019 feedback:\n\nIt used to be an easy course until 2024. # # #\nNow it\u2019s hard and covers more. Take it in your last semester if possible. # # #\nPlan extra time. It takes more time than typical 3-credit courses. # # #\nLLMs grade you \u2013 unpredictably. # #\nThe ROE is hard. #\n"
+  },
+  {
+    "topic": "TDS | References | Guidelines",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-references-guidelines/67216/2",
+    "content": ""
+  },
+  {
+    "topic": "TDS | References | Guidelines",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-references-guidelines/67216/3",
+    "content": ""
+  },
+  {
+    "topic": "TDS | References | Guidelines",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-references-guidelines/67216/5",
+    "content": ""
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/1",
+    "content": "This category is created to address subject-specific queries related to Tools in Data Science\n- Why should people use this category? What is it for?\n\nThe larger goal of the Discourse forum is to act as a Knowledge base for the course. You can make this more productive by\n\n\nElaborating your question sufficiently and supporting it with steps that you have already tried at your end before posting this question\n\n\nSharing additional content or explanations related to the topic being discussed\n-  Are there any rules for posting in this category?\n\n\n\nBefore you create a new post, review the existing threads to see if there are already highly similar or identical postings. Discourse will suggest similar posts once you start typing titles\n\n\nTag the post appropriately so that it gets indexed correctly in our Knowledge Base. For instance, if your query is on an Activity Question in Week 1 then use the tags #activity-question, #week-1\n\n\nProvide a meaningful title to your post that contains the topic/details of your query so that it can be searched by others easily. For instance: Do not use the titles like \u201cAQ1.1 Q3\u201d which just gives question number alone.  Instead use a more meaningful title like - \u201cNeed help in calculating the N^{th} prime number\u201d\n\n\nType in your question and explanations rather than pasting images or screenshots.\n- What is NOT Permitted in this category?\n\n\n\nBeing argumentative or sarcastic\n\n\nUse of abusive/strong language\n\n\nPosting support/logistics related query\n\n\nUnnecessarily tagging Faculty/Instructors in posts\n\n\nPosting Solutions or discussing solutions to graded assignments\n- Who will be moderating the content in this forum?\n\n\n\nThe foum will be moderated by Course Instructors. They will have the authority to decide whether a post violates forum rules/guidelines. You can flag/report any such violations that you observe by clicking on  icon on the post. Please do mention the reason why you are flagging the topic.\n  - What are the disciplinary actions if some one violates the rules and guidelines of the forum? \n\nThe flagged posts that violates forum rules/guidelines will be hidden. Repeated violation of the rules can result in the offender being removal from the forum."
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/2",
+    "content": "Can some course instructor talk more about the Discover the problem statement ?"
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/3",
+    "content": "From the graded assignment we can\u2019t understand what is right way to think unless we make trial and error. can we have some practice assignment to understand our thinking process is properly aligned or not. With just GA it would be difficult to assess."
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/4",
+    "content": "Apart from what @CKPIITM observed about this course, here\u2019s my first impression of this course\u2026Granted, it has been only a week, but I think I must go ahead anyway\u2026\nThe week-1 clearly shows a lack of planning, from the program as well as the specific course perspective.  It starts off with an example that completely caught me off-guard.  The first video discussed an example that left me wondering why is the instructor even discussing all of that, at this point.  What\u2019s the context and the motivation?  Moreover, every slide is filled to the brim with text.  Can\u2019t decide whether to read it or listen to the speaker.  Neither does give me much understanding anyway.  It was filled with terminology that I\u2019m yet to pick up.  The speaker didn\u2019t apparently know much about who the audience is, and what are they aware of, and what they aren\u2019t\u2026In short, it failed to implement any of the very matter it speaks of - Understanding the problem.\nSummary.  I feel the course is offered too early.  Rather, I took it a little too early.\nDefinitely, I can\u2019t relate to most things the speaker is talking about.  At least, I don\u2019t see how and where the ideas will gel with our program.  I\u2019m sure it does, but now, I don\u2019t know how.\nSorry, I\u2019d never been as critical about anything as this one.  I just had to.  I\u2019m willing to hear different opinions.\nI\u2019m awaiting the announcement from IIT for the course drop."
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/5",
+    "content": "I am totally clue less about the expectation of instructor from the participants of this course. And the question of graded assignment was something, I found myself out of context. I know I can pass any course but I don\u2019t just wanna pass without any concrete learning. The real problem this time is not TIME.\nHopefully courses instructor will guide us through this conundrum."
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/6",
+    "content": "I feel like we need an introduction video of some kind for this. Or it should have been suggested only to those who have completed all the ML courses. From the offset, there are people who don\u2019t know what modelling is, the different kinds of models etc. but there is no explanation for all this. Granted, it was mentioned in the orientation that it would only be tools with no explanation.\nBut I am hopeful that this will get better in the later weeks as this is the only \u201ccomprehension\u201d type of week (reminiscent of the english courses lol). The other weeks will all involve practical approach and coding. As long as adequate time is spent on introducing each new thing, I think it should be okay."
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/7",
+    "content": "As of now, I\u2019m set on my mind to drop the course, unless something hopeful turns up next week.  Will continue after all other ML courses are done\u2026"
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/8",
+    "content": "Some sort of introduction would have been better instead of just diving into the topic. Nevertheless, I hope we get practice questions/assignment to comprehend the concepts.\nIn the meantime if anyone gets some sort of resources to practice elsewhere, do share."
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/9",
+    "content": "Adding to the discussion here, I\u2019d also have to say it\u2019s quite the same feeling for me. I got lost while going through the videos. At first, I thought it\u2019s some issue with me, because of which, the video is making less meaning. Seems like, many have the same issues. As told by many here, I would also emphasize the need for more practice questions."
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/10",
+    "content": "Participants of this course should express their experience so that a more meaningful content can be created and provided to us as supplementary. From lec video it is clear that the recording were made around july so they had around half an year time to work on it.\nThe other problem is, there is no visible resource to get our hands on experience."
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/11",
+    "content": "I also feel the same. but I think with further weeks the course will become more interesting."
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/12",
+    "content": "As my peers said i also feels the same way but i don\u2019t have thought of dropping course rather i wanted some more content to add from IITM side to make the students more comfortable in this journey."
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/13",
+    "content": "well, my choice of dropping might be wrong\u2026but, guided by the following factors.\n\n\nThe recording was perhaps done much earlier as @CKPIITM pointed out in his reply, and so chances are most of it would\u2019ve been already recorded.  So, lesser chances to re-record them.\n\n\nThere are no live sessions planned yet for this course\u2026 the absence of enough sessions (especially given that it\u2019s a 2-credit course) will worsen the situation.\n\n\nFinally, I feel I might be able to better appreciate the technicalities and jargon if I finish all other ML courses before taking this up.\n\n"
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/14",
+    "content": "Imagine if your reason doesn\u2019t get resolved even after all ML courses are over then in that case you will underutilize your time. So I would suggest don\u2019t think of dropping, it is just a course and we just need to pass it and leverage this knowledge to search for better resources and learning material.\n@Anand"
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/15",
+    "content": "\n\n\n CKPIITM:\n\nI know I can pass any course but I don\u2019t just wanna pass without any concrete learning.\n\n\nwasn\u2019t it you who wrote this earlier  "
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/16",
+    "content": "But this will not lead me to dropping either. I always find ways to learn.  I start with expectation and then start my own search for knowledge."
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/17",
+    "content": "I certainly differ from the point of view of the conversation going on in this thread.\nIn my opinion, I am thinking this first week of content as to understand how the problems or objective come from a company which needs these models to implemented. It is more of a professional view rather than a student view. We need to first understand the problem and then start the solution rather than just jumping on to modelling each question."
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/18",
+    "content": "I also found 1st week content engaging and practical. Maybe I will get few questions wrong,but I feel the concept of discovering the problem was well introduced."
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/19",
+    "content": "I too find content of week 1 engaging and practical. I agree with @anand095 and @akruti."
+  },
+  {
+    "topic": "About the Tools in Data Science category",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335/20",
+    "content": "Interesting!  Just this morning, during my morning walk I was thinking how each of us is different in our outlook, our potential, how we realize it, how we\u2019re challenged\u2026and the recent posts show that we indeed are different!  It\u2019s important that none of us stay put on what works for us and what we think is right, but be willing to see the other point of view too\u2026\nI think I\u2019m starting to understand the other points of view\u2026well I\u2019m trying to  "
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/1",
+    "content": "Please post any questions related to Project 1\nPlease use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It\u2019s easier for us to copy-paste and test.\nDeadline: 2025-06-14T18:29:00Z\nDeadline: 2025-06-18T18:29:00Z"
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/2",
+    "content": "@s.anand @carlton\nSir i am done with my api endpoint for project 1 but i did one change in the given test file where we have to edit our api endpoint and test it as mentioned in the project description. I was testing my model but was getting the same response every time even though my model was giving the expected answer to those question when tested separately. I found that in the test file (promptfoo.yaml) the cache is marked as true and because of which whenever i try to run the test file it does not hit my api endpoint and take the old response from the cache. So i changed the cache to false and tried running that test file and got the results as shown below in the image.\nimage1861\u00d7912 105 KB\nIn this as you can see for the 2nd test case since i am using the openai model to give the final answer so it is using my context and saying that dashboard will show 11/10, but the expected answer should contain \u201c110\u201d. The problem i am facing is as you can see the url given in my response is same as expected which means my model is picking the right context to answer the question but since i am using openai to make my final answer using this context it is very unlikely that it will say that dashboard will show \u201c110\u201d because this doesn\u2019t make sense. So can you please help me how should i tackle this ? As this is the only test case left.\nAnd also i have added one prompt field in the test file because i was getting warning regarding this missing field again and again. So is it okay ?"
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/3",
+    "content": "@HritikRoshan_HRM sir can you please help me with this."
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/4",
+    "content": ""
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/5",
+    "content": "Not able to access the tds project link.\nTDS_Project1898\u00d7509 16.7 KB"
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/6",
+    "content": "\n\n\ntds.s-anand.net\n\n\nTools in Data Science\n\n\n\n\n\n"
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/7",
+    "content": "Not this one the GitHub repository URL and API endpoint URL submission link not opening.\nSir my all links are working like I submitted by GA1 also but only my project submission link not working. Please solve the problem. How will I submit my project?"
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/8",
+    "content": "Have you completed your project ? I have some doubts."
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/9",
+    "content": "not yet but how will I gonna submit it. I can\u2019t post this at end. My link should be working to submit my project before deadline."
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/10",
+    "content": "Submission date is next month, maybe by then they will fix it. I am also not able access submission link."
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/11",
+    "content": "Sir, the question\u2019s background specifies that we should use Discourse posts from January 1, 2025 through April 14, 2025. However, in first testcase we are asked to answer based on the following Discourse post\u2014which dates outside that window:\nhttps://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939\nIs this an error in the question\u2019s timeframe?"
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/12",
+    "content": "Interesting, that\u2019s my post from Sep 24 Term. I am curious about the context and why did an 8 month old post come up in a Test."
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/13",
+    "content": "I guess, this question is also covered in previous term, i.e., t1-2025"
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/14",
+    "content": "Actually, in this term (May 25), we received our first project as TDS Virtual TA, where we are tasked with designing a chatbot API that acts as a virtual TA. For this project, your post has been provided as an example test case."
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/15",
+    "content": "Sorry, but I couldn\u2019t find any related question. Could you please send me the link to the post, if you have it?"
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/16",
+    "content": "It maybe in week-4 or 5 GA"
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/17",
+    "content": "@Jivraj @carlton Sir, any updates on my issue?"
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/18",
+    "content": "Sir, i have build an initial model for my project and when i test some question separately then i get somewhat expected answer like\nimage1136\u00d7435 11.3 KB\nthis is the response which i got from my model\n@carlton sir can you please help me in this"
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/19",
+    "content": "And the in the test file given in the project description this is the response for this question\nimage965\u00d7296 9.81 KB"
+  },
+  {
+    "topic": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077/20",
+    "content": "This is the response of the same question given in the promtfoo.yaml file which we have to use for the testing purpose by editing our api endpoint.\nBut the issue is, when i test this file by running that promtfoo.yaml file by editing my api endpoin then for this same question the test case fails.\nimage1179\u00d7191 12.9 KB\nalso the answer which it shows is not what i get when i run my model for this question as shown in the above image. Can you please help me with this, where i am going wrong ?"
+  },
+  {
+    "topic": "TDS P1 help needed",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-p1-help-needed/179246/1",
+    "content": "I have uploaded exactly the files that need to be uploaded and I have set the required environment variables but I cannot get any output whatsoever. Setting the right API key, creating the correct database file- I have done all of it and yet I cannot figure out why aren\u2019t my credits being used up (so API calling is not working ) or how to fix the error I keep getting repeatedly which is attached as follows. If anyone has completed, please help me out on this one. I have a friend who followed the exact same steps as given in a blueprint, and his one worked.\n@carlton sir pls help me out\nScreenshot 2025-06-14 2321391919\u00d7999 69.8 KB"
+  },
+  {
+    "topic": "TDS P1 help needed",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-p1-help-needed/179246/2",
+    "content": "Can you share your yaml file also."
+  },
+  {
+    "topic": "TDS P1 help needed",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-p1-help-needed/179246/3",
+    "content": "yeah sure- I am using the same one that was provided by S. Anand sir in the https://tds.s-anand.net/ webpage\nI have this one attached below\nproviders:\n  - id: https\n    config:\n      url: 'your app url'\n      method: POST\n      headers:\n        Content-Type: application/json\n      body: |\n        {\n          \"question\": \"{{ question }}\"{% if image %},\n          \"image\": \"{{ image }}\"{% endif %}\n        }\n \n        }\n      transformResponse: json\n\n# Ensure JSON schema\ndefaultTest:\n  options:\n    provider:\n      id: https\n      config:\n        url: https://aiproxy.sanand.workers.dev/openai/v1/chat/completions\n        method: POST\n        headers:\n          Content-Type: application/json\n          Authorization: Bearer {{env.API_KEY}} # Replace with your token\n        body: |\n          {\n            \"model\": \"gpt-4o-mini\",\n            \"messages\": [\n              {\"role\": \"system\", \"content\": \"You are an evaluator that checks if an output meets specific criteria. Analyze the output based on the given rubric and respond with a JSON object containing {\\\"reason\\\": \\\"your analysis\\\", \\\"score\\\": number between 0.0 and 1.0, \\\"pass\\\": true/false}.\"},\n              {\"role\": \"user\", \"content\": \"Output to evaluate: {{ output }}\\n\\nRubric: {{ rubric }}\"}\n            ],\n            \"temperature\": 0\n          }\n        transformResponse: json\n\n  assert:\n    - type: is-json\n      value:\n        type: object\n        required: [answer, links]\n        properties:\n          answer: { type: string }\n          links:\n            type: array\n            items:\n              type: object\n              required: [url, text]\n              properties:\n                url: { type: string }\n                text: { type: string }\n\ntests:\n  - vars:\n      question: The question asks to use gpt-3.5-turbo-0125 model but the ai-proxy provided by Anand sir only supports gpt-4o-mini. So should we just use gpt-4o-mini or use the OpenAI API for gpt3.5 turbo?\n      image: file://project-tds-virtual-ta-q1.webp\n      link: https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939\n    assert:\n      - type: llm-rubric\n        transform: output.answer\n        value: Clarifies use of gpt-3.5-turbo-0125 not gpt-4o-mini\n      - type: contains\n        transform: JSON.stringify(output.links)\n        value: https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939\n\n  - vars:\n      question: If a student scores 10/10 on GA4 as well as a bonus, how would it appear on the dashboard?\n      link: https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-jan-2025/165959/388\n    assert:\n      - type: llm-rubric\n        transform: output.answer\n        value: Mentions the dashboard showing \"110\"\n      - type: contains\n        transform: JSON.stringify(output.links)\n        value: https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-jan-2025/165959\n  - vars:\n      question: I know Docker but have not used Podman before. Should I use Docker for this course?\n    assert:\n      - type: llm-rubric\n        transform: output.answer\n        value: Recommends Podman for the course\n      - type: llm-rubric\n        transform: output.answer\n        value: Mentions that Docker is acceptable\n      - type: contains\n        transform: JSON.stringify(output.links)\n        value: https://tds.s-anand.net/#/docker\n  - vars:\n      question: When is the TDS Sep 2025 end-term exam?\n    assert:\n      - type: llm-rubric\n        transform: output.answer\n        value: Says it doesn't know (since this information is not available yet)\n\nwriteLatestResults: true\n\ncommandLineOptions:\n  cache: false\n"
+  },
+  {
+    "topic": "TDS P1 help needed",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-p1-help-needed/179246/4",
+    "content": "Have you modified this yanl file by changing the url to your api endpoint?"
+  },
+  {
+    "topic": "TDS P1 help needed",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-p1-help-needed/179246/5",
+    "content": "yes absolutely, well an update is, I got 3 successes and just 1 failure instead of 0 successes and 4 failures. turns out I was missing the word query from the url endpoint so that\u2019s why it was unable to fetch.\nthe problem I am stuck at right now is in the screenshot shown below\nScreenshot 2025-06-15 1346311919\u00d7851 57.3 KB"
+  },
+  {
+    "topic": "TDS P1 help needed",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-p1-help-needed/179246/6",
+    "content": "This is related to your embeddings or your propmt i believe.. not avle to find relevant answer. May be try changing your prompt or check the topchunks it got for this request and find whether it is getting the correct chunka nd it has the required details."
+  },
+  {
+    "topic": "TDS P1 help needed",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-p1-help-needed/179246/7",
+    "content": "okay, got it. I will try that and see. Thank you for your help, really appreciate it."
+  },
+  {
+    "topic": "TDS P1 help needed",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-p1-help-needed/179246/8",
+    "content": "Brother can you please help ? Actually i am using render for api hosting when ever i run this yaml file with image link i got error as render can\u2019t process image can you please sugest a way or any new api hosting platform and also on which software you running the yaml file (i acctually using ubuntu)"
+  },
+  {
+    "topic": "Promptfoo yaml not fetching results",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/promptfoo-yaml-not-fetching-results/179348/1",
+    "content": "whenever i use curl to ask questions it fetches results fine however the same questions when asked by promptfoo wont get any results and \u201csay i could not find\u201d\nScreenshot 2025-06-16 at 8.46.52 PM1016\u00d7540 54.3 KB"
+  },
+  {
+    "topic": "Help required in Project 1 - scrapping Discourse data",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/help-required-in-project-1-scrapping-discourse-data/179153/1",
+    "content": "Hello,\nI\u2019m new to coding and still learning. I\u2019m trying to scrape data from a Discourse forum and have identified the relevant API endpoint. However, I\u2019m having trouble with authentication\u2014I keep receiving a 403 error stating that the user is not logged in or doesn\u2019t have permission to perform the action.\nI\u2019ve tried using the most recent cookies from my browser, but I still get the same error. Can someone help me figure out what I\u2019m doing wrong?"
+  },
+  {
+    "topic": "Help required in Project 1 - scrapping Discourse data",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/help-required-in-project-1-scrapping-discourse-data/179153/2",
+    "content": "Honestly, you must be unintentionally making some sort of a mistake. I will give you a function definition that should work.\n\nimport requests\n\ndef create_session():\n\n    domain = \"discourse.onlinedegree.iitm.ac.in\"\n\n    session = requests.Session()\n\n    cookies = dict(\n\n        _t = \"_______________\",\n\n        _forum_session = \"_______________\"\n\n    )\n\n    for name, value in cookies.items():\n\n        session.cookies.set(name, value, domain=domain)\n\n    return session\n\nUse this session object using session.get(url, headers=headers).\nYou must create a session to mimic a real browser. Good luck!"
+  },
+  {
+    "topic": "Help required in Project 1 - scrapping Discourse data",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/help-required-in-project-1-scrapping-discourse-data/179153/3",
+    "content": "did u get an api key for discourse to scrape the data can u help me with that @23f1000917"
+  },
+  {
+    "topic": "Help required in Project 1 - scrapping Discourse data",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/help-required-in-project-1-scrapping-discourse-data/179153/4",
+    "content": "i am currently running it in local host 8000 other functionalities are working this is the problem data scraping"
+  },
+  {
+    "topic": "Help required in Project 1 - scrapping Discourse data",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/help-required-in-project-1-scrapping-discourse-data/179153/5",
+    "content": "Okay, I will explain it to you.\n\n\nUpon visiting discourse and signing in with your account, you get \u2018cookies\u2019 containing information that can be used to authorize you. These cookies are sent with each subsequent request you make to discourse, if the website does not recognize these cookies, they simply reject your request with a status code of 403.\n\n\nIf you want to scrape the posts, you need to get these cookies. So, where are these cookies stored? Well, just sign into discourse with your IITM account (in Chrome). Then, visit the following URL:\nhttps://discourse.onlinedegree.iitm.ac.in/session/current.json\n\n\nOnce the page has opened and you can see JSON data, do the following:\nright click > inspect > application > cookies > https://discourse.onlinedegree.iitm.ac.in/.\n\n\nNow, you will see a bunch of cookies, which are similar to a python dictionary containing key-value pairs. You only care about two such keys, one is _t and the other one is _forum_session.\n\n\nSave the value of these cookie keys in a python file like my_cookies.py:\n\n\n# my_cookies.py \n_t = \"your _t cookie\"\n_forum_session = \"your _forum_session cookie\"\n\n\n\nNow, these can be imported into other files using:\n\nfrom my_cookies import _t, _forum_session\n\nauth_cookie: dict = { '_t' : _t , '_forum_session': _forum_session }\n\n\n\n\nNote that these cookies keep changing, when you make new requests you get different values that replace the current values of your session. You can think of the session as a user.\n\n\nNow, look at my previous reply:\nhttps://discourse.onlinedegree.iitm.ac.in/t/help-required-in-project-1-scrapping-discourse-data/179153/2?u=23f1000917\n\n\nThe requests module is used to send requests to websites in python.  You need to install it using pip install requests. You create a session object and add your cookies in it. This automatically handles the changing and replacement of cookie values when you make requests.\n\n\nSearch for a tutorial on the requests module to understand how to make requests using it. Just know that you can do the something like this:\n\n\nimport requests \n\nURL = \"https://example.com/latest_threads.json\"\nsession = requests.Session()\nresponse = session.get(URL)\nif response.status_code=200:\n    data = response.json() # get json data \n\n\n\nLastly, watch the live sessions conducted by IITM on 10th June and next few days. You can find them in your google calendar.\n"
+  },
+  {
+    "topic": "Help required in Project 1 - scrapping Discourse data",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/help-required-in-project-1-scrapping-discourse-data/179153/6",
+    "content": "@23f1000917 thanks bro will try this out"
+  },
+  {
+    "topic": "IITM Github account flagged",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/iitm-github-account-flagged/179311/1",
+    "content": "My IITM GitHub account is flagged and I am not able to deploy my TDS project 1 on third-party applications, kindly help me out with this, thank you\nScreenshot (1225)1920\u00d71080 273 KB"
+  },
+  {
+    "topic": "IITM Github account flagged",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/iitm-github-account-flagged/179311/2",
+    "content": "Shall I deploy the project using my personal Github account, please clarify this @s.anand Sir and @carlton Sir!!"
+  },
+  {
+    "topic": "Unable to deploy api on render",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/unable-to-deploy-api-on-render/179292/1",
+    "content": "this is my render log\nERROR: Exception:\nJun 16 05:06:01 AM\nTraceback (most recent call last):\nJun 16 05:06:01 AM\nFile \u201c/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/cli/base_command.py\u201d, line 105, in _run_wrapper\nJun 16 05:06:01 AM\nstatus = _inner_run()\nJun 16 05:06:01 AM\nFile \u201c/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/cli/base_command.py\u201d, line 96, in _inner_run\nJun 16 05:06:01 AM\nreturn self.run(options, args)\nJun 16 05:06:01 AM\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/cli/req_command.py\", line 68, in wrapper\n\nJun 16 05:06:01 AM\n\nreturn func(self, options, args)\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/commands/install.py\", line 387, in run\n\nJun 16 05:06:01 AM\n\nrequirement_set = resolver.resolve(\n\nJun 16 05:06:01 AM\n\nreqs, check_supported_wheels=not options.target_dir\n\nJun 16 05:06:01 AM\n\n)\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/resolution/resolvelib/resolver.py\", line 96, in resolve\n\nJun 16 05:06:01 AM\n\nresult = self._result = resolver.resolve(\n\nJun 16 05:06:01 AM\n\n~~~~~~~~~~~~~~~~^\n\nJun 16 05:06:01 AM\n\ncollected.requirements, max_rounds=limit_how_complex_resolution_can_be\n\nJun 16 05:06:01 AM\n\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\nJun 16 05:06:01 AM\n\n)\n\nJun 16 05:06:01 AM\n\n^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py\", line 515, in resolve\n\nJun 16 05:06:01 AM\n\nstate = resolution.resolve(requirements, max_rounds=max_rounds)\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py\", line 388, in resolve\n\nJun 16 05:06:01 AM\n\nself._add_to_criteria(self.state.criteria, r, parent=None)\n\nJun 16 05:06:01 AM\n\n~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py\", line 141, in _add_to_criteria\n\nJun 16 05:06:01 AM\n\nif not criterion.candidates:\n\nJun 16 05:06:01 AM\n\n^^^^^^^^^^^^^^^^^^^^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_vendor/resolvelib/structs.py\", line 194, in __bool__\n\nJun 16 05:06:01 AM\n\nreturn bool(self._sequence)\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py\", line 163, in __bool__\n\nJun 16 05:06:01 AM\n\nself._bool = any(self)\n\nJun 16 05:06:01 AM\n\n~~~^^^^^^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py\", line 147, in <genexpr>\n\nJun 16 05:06:01 AM\n\nreturn (c for c in iterator if id(c) not in self._incompatible_ids)\n\nJun 16 05:06:01 AM\n\n^^^^^^^^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py\", line 37, in _iter_built\n\nJun 16 05:06:01 AM\n\ncandidate = func()\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/resolution/resolvelib/factory.py\", line 187, in _make_candidate_from_link\n\nJun 16 05:06:01 AM\n\nbase: Optional[BaseCandidate] = self._make_base_candidate_from_link(\n\nJun 16 05:06:01 AM\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^\n\nJun 16 05:06:01 AM\n\nlink, template, name, version\n\nJun 16 05:06:01 AM\n\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\nJun 16 05:06:01 AM\n\n)\n\nJun 16 05:06:01 AM\n\n^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/resolution/resolvelib/factory.py\", line 233, in _make_base_candidate_from_link\n\nJun 16 05:06:01 AM\n\nself._link_candidate_cache[link] = LinkCandidate(\n\nJun 16 05:06:01 AM\n\n~~~~~~~~~~~~~^\n\nJun 16 05:06:01 AM\n\nlink,\n\nJun 16 05:06:01 AM\n\n^^^^^\n\nJun 16 05:06:01 AM\n\n...<3 lines>...\n\nJun 16 05:06:01 AM\n\nversion=version,\n\nJun 16 05:06:01 AM\n\n^^^^^^^^^^^^^^^^\n\nJun 16 05:06:01 AM\n\n)\n\nJun 16 05:06:01 AM\n\n^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/resolution/resolvelib/candidates.py\", line 306, in __init__\n\nJun 16 05:06:01 AM\n\nsuper().__init__(\n\nJun 16 05:06:01 AM\n\n~~~~~~~~~~~~~~~~^\n\nJun 16 05:06:01 AM\n\nlink=link,\n\nJun 16 05:06:01 AM\n\n^^^^^^^^^^\n\nJun 16 05:06:01 AM\n\n...<4 lines>...\n\nJun 16 05:06:01 AM\n\nversion=version,\n\nJun 16 05:06:01 AM\n\n^^^^^^^^^^^^^^^^\n\nJun 16 05:06:01 AM\n\n)\n\nJun 16 05:06:01 AM\n\n^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/resolution/resolvelib/candidates.py\", line 159, in __init__\n\nJun 16 05:06:01 AM\n\nself.dist = self._prepare()\n\nJun 16 05:06:01 AM\n\n~~~~~~~~~~~~~^^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/resolution/resolvelib/candidates.py\", line 236, in _prepare\n\nJun 16 05:06:01 AM\n\ndist = self._prepare_distribution()\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/resolution/resolvelib/candidates.py\", line 317, in _prepare_distribution\n\nJun 16 05:06:01 AM\n\nreturn preparer.prepare_linked_requirement(self._ireq, parallel_builds=True)\n\nJun 16 05:06:01 AM\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/operations/prepare.py\", line 532, in prepare_linked_requirement\n\nJun 16 05:06:01 AM\n\nreturn self._prepare_linked_requirement(req, parallel_builds)\n\nJun 16 05:06:01 AM\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/operations/prepare.py\", line 647, in _prepare_linked_requirement\n\nJun 16 05:06:01 AM\n\ndist = _get_prepared_distribution(\n\nJun 16 05:06:01 AM\n\nreq,\n\nJun 16 05:06:01 AM\n\n...<3 lines>...\n\nJun 16 05:06:01 AM\n\nself.check_build_deps,\n\nJun 16 05:06:01 AM\n\n)\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/operations/prepare.py\", line 71, in _get_prepared_distribution\n\nJun 16 05:06:01 AM\n\nabstract_dist.prepare_distribution_metadata(\n\nJun 16 05:06:01 AM\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^\n\nJun 16 05:06:01 AM\n\nfinder, build_isolation, check_build_deps\n\nJun 16 05:06:01 AM\n\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\nJun 16 05:06:01 AM\n\n)\n\nJun 16 05:06:01 AM\n\n^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/distributions/sdist.py\", line 56, in prepare_distribution_metadata\n\nJun 16 05:06:01 AM\n\nself._install_build_reqs(finder)\n\nJun 16 05:06:01 AM\n\n~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/distributions/sdist.py\", line 126, in _install_build_reqs\n\nJun 16 05:06:01 AM\n\nbuild_reqs = self._get_build_requires_wheel()\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/distributions/sdist.py\", line 103, in _get_build_requires_wheel\n\nJun 16 05:06:01 AM\n\nreturn backend.get_requires_for_build_wheel()\n\nJun 16 05:06:01 AM\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_internal/utils/misc.py\", line 702, in get_requires_for_build_wheel\n\nJun 16 05:06:01 AM\n\nreturn super().get_requires_for_build_wheel(config_settings=cs)\n\nJun 16 05:06:01 AM\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_vendor/pyproject_hooks/_impl.py\", line 196, in get_requires_for_build_wheel\n\nJun 16 05:06:01 AM\n\nreturn self._call_hook(\n\nJun 16 05:06:01 AM\n\n~~~~~~~~~~~~~~~^\n\nJun 16 05:06:01 AM\n\n\"get_requires_for_build_wheel\", {\"config_settings\": config_settings}\n\nJun 16 05:06:01 AM\n\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\nJun 16 05:06:01 AM\n\n)\n\nJun 16 05:06:01 AM\n\n^\n\nJun 16 05:06:01 AM\n\nFile \"/opt/render/project/src/.venv/lib/python3.13/site-packages/pip/_vendor/pyproject_hooks/_impl.py\", line 402, in _call_hook\n\nJun 16 05:06:01 AM\n\nraise BackendUnavailable(\n\nJun 16 05:06:01 AM\n\n...<4 lines>...\n\nJun 16 05:06:01 AM\n\n)\n\nJun 16 05:06:01 AM\n\npip._vendor.pyproject_hooks._impl.BackendUnavailable: Cannot import 'setuptools.build_meta'\n\nJun 16 05:06:02 AM\n\n==> Build failed \ud83d\ude1e\n\npls help me fix this sir. thank you."
+  },
+  {
+    "topic": "Unable to deploy api on render",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/unable-to-deploy-api-on-render/179292/2",
+    "content": "(post deleted by author)"
+  },
+  {
+    "topic": "Pipe tokens quota refill",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/pipe-tokens-quota-refill/179290/1",
+    "content": "sir i want to ask u when will the api pipe token be refreshed in 7 days after use or weekly pattern ??? please do answer @s.anand @carlton"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/1",
+    "content": "Please post any questions related to Graded Assignment 3 - Development Tools.\nPlease use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It\u2019s easier for us to copy-paste and test.\nDeadline: 2025-05-31T18:30:00Z\n@Jivraj @Saransh_Saini @HritikRoshan_HRM @21f3002441 @iamprasna @carlton"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/2",
+    "content": ""
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/3",
+    "content": "Sir in the 9th question when entering this command\nllm embed-multi typescript-book --model 3-small --store --format nl chunks.json\n\nI\u2019m facing this problem\n2025-05-21_17h45_37353\u00d7185 25.6 KB\n@23f3000511"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/4",
+    "content": "@carlton @Jivraj is there anything wrong with Q9 of GA-3 ? I am trying for last two days but getting this as the error.\nScreenshot 2025-05-22 at 4.27.59 PM2938\u00d71300 324 KB\ncould u please help me out."
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/5",
+    "content": "Hi Asit,\nI have solved all questions of GA3 without any issues, there should not be any issues."
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/6",
+    "content": "\nGA3 submission date preponed from 01 Jun to 25 May 2025 since there\u2019s a break the week after\n\nWhich One is the real dead Line - 01 June Or 25  May 2025"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/7",
+    "content": "The Above Comment is written on Tools in Data Science Which was last updated on 5th of may, but it is still up there"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/8",
+    "content": "deadline for GA3 is 1st june"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/9",
+    "content": "You would need to install llm cli for using it.\nFind documentation below simonw/llm: Access large language models from the command-line"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/10",
+    "content": "I want to confirm what is deadline of week 3 in TDS because on portal, Graded assignment of week 3 is not updated but by using URL of GA2 and by replacing 2 with 3 in URL, I can get week 3 GAs, but in docs, provided by TDS portal through Email have deadline on 25 June for GA3 but with the URL, We are getting 25 May as deadline. So please clarify this what is deadline for GA 3\nScreenshot 2025-05-19 223148809\u00d7321 15.6 KB\nScreenshot 2025-05-19 2235321617\u00d71026 108 KB"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/11",
+    "content": "sir i am facing issue in every assignment where api key is needed i have exceeded my quota so it is not accepting api key in any of my account even i use my friend\u2019s api key it shows that you have exceed your quota. Please give me solution for this last time i missed my assignment due to this problem.\nimage612\u00d7288 10.4 KB"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/12",
+    "content": "please help me @carlton @Jivraj"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/13",
+    "content": "OpenAi free trial credits have been discontinued?\n\n\nYes, the free credits have been discontinued earlier this year. OpenAI now for most users operates under pre-paid billing. In order to use the API you need to fund your account with a minimum balance of USD 5. Let us know if you have any further questions.\n\n\ncheck Is OpenAi free trial credits have been discontinued? - API - OpenAI Developer Community\nplease allow us to use different model like of deepseek or somthing else otherwise it is not possible for us to do the assignment even after using OPEN_API_KEY of any account it shows \u201cyour quota has been exceeded\u201d"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/14",
+    "content": "This is most likely because you are not using the documented api endpoints. It was explained in earlier live sessions that we provide you with a key with sufficient credit to complete your assignments. But the mechanism we employ is to use a proxy. Please carefully follow the instructions in the session or on the aipipe documentation that is available on module 3 first page."
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/15",
+    "content": "Sir which API Key to use for question 9 for running this llm\nimage1271\u00d7770 63.8 KB"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/16",
+    "content": "Admin@DESKTOP-JSC3TUA MINGW64 /f/IITM/tools_in_data_science/assignment3/Q-9/app\n$ uv run addnotes.py\nCreate collection response: 400 {\u201cmessage\u201d: \u201cOpenAI API error: Your authentication token is not from a valid issuer.\u201d}\nFailed to create collection. Exiting.\ni am getting this even after using AIPIPE_TOKEN every time"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/17",
+    "content": "Even if you use the Ai pipe token, if you do not use the right endpoints you will still get that error. Because open ai does not recognise aipipe tokens as legitimate."
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/18",
+    "content": "i keep getting this error for Q8\nScreenshot 2025-05-25 165409745\u00d7529 28.1 KB"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/19",
+    "content": "so sir what\u2019s the solution?"
+  },
+  {
+    "topic": "GA3 - Large Language Models - Discussion Thread [TDS May 2025]",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592/21",
+    "content": "what is the final date for submitting GA3 .. test showing 1st June.. kindly confirm\nimage2897\u00d71241 283 KB"
+  },
+  {
+    "topic": "TDS Project 1 2025",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-project-1-2025/179103/1",
+    "content": "I\u2019ve watched the YouTube sessions for Project 1, but I\u2019m feeling quite confused. I\u2019ve managed to scrape data from Discourse, and the content is now saved in multiple files. I\u2019ve converted these files into .md (Markdown) format, but I\u2019m having trouble handling the images \u2014 I\u2019m not able to extract or display them properly.   Can anyone help?"
+  },
+  {
+    "topic": "TDS Project 1 2025",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-project-1-2025/179103/2",
+    "content": "Can you please clarify how you scraped the data . I am not able to do it. Please Help me."
+  },
+  {
+    "topic": "TDS Project 1 2025",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-project-1-2025/179103/3",
+    "content": "You can watch project sessions of tds in youtube playlist. They have mentioned and shown example of how to scrape the data."
+  },
+  {
+    "topic": "Image Size issue with the railway.app deployment made",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/image-size-issue-with-the-railway-app-deployment-made/179213/1",
+    "content": "I have tried to deploy the app to railway.com but getting the error like this\nimage1917\u00d7945 65.7 KB\nIssue witn the image build, but we don\u2019t have any control over it..\nAny other deployment resources??"
+  },
+  {
+    "topic": "Output from the curl command of individual question is different from the promptfoo evaluation",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/output-from-the-curl-command-of-individual-question-is-different-from-the-promptfoo-evaluation/179200/1",
+    "content": "For the question I know Docker but have not used Podman before. Should I use Docker for this course?\nThe output I have got using this command in terminal was\ncurl \"http://localhost:8000/api/\"   -H \"Content-Type: application/json\"   -d \"{\\\"question\\\": \\\"I know Docker but have not used Podman before. Should I use Docker for this course?\\\"}\"\n*Output : *\n{\n    \"answer\": \"Yes, you can definitely use Docker for this course. While Podman is recommended because it offers better security and has a slightly more open license, Docker works in the same way and is widely used. If you're already familiar with Docker, you can continue using it without any issues. Just make sure to follow the same steps for building, running, and pushing images as you would with Podman.\",\n    \"links\": [\n        {\n            \"url\": \"https://tds.s-anand.net/#/docker\",\n            \"text\": \"Podman is compatible with Docker and has better security (and a slightly more open license). In this course, we recommend Podman but Docker works in the same way.\"\n        },\n        {\n            \"url\": \"https://discourse.onlinedegree.iitm.ac.in/t/project-1-llm-based-automation-agent-discussion-thread-tds-jan-2025/164277/312\",\n            \"text\": \"@s.anand Sir please tell me this I am not using podman i am using docker for building and hosting is it fine sir ?\"\n        },\n        {\n            \"url\": \"https://discourse.onlinedegree.iitm.ac.in/t/ga2-deployment-tools-discussion-thread-tds-jan-2025/161120/19\",\n            \"text\": \"@Nelson I would recommend Podman or Docker CE rather than Docker Desktop. Docker Desktop is not free for organizations over 250 people and many organizations have therefore moved away from it.\"\n        },\n        {\n            \"url\": \"https://discourse.onlinedegree.iitm.ac.in/t/ga1-development-tools-discussion-thread-tds-jan-2025/161083/17\",\n            \"text\": \"Hi Suhani,\\nnpm does not require docker. Kind regards\"\n        },\n        {\n            \"url\": \"https://discourse.onlinedegree.iitm.ac.in/t/tds-official-project1-discrepencies/171141/138\",\n            \"text\": \"on a side note, to validate and test our docker/podman images on a platform outside of our dev environment we can use https://labs.play-with-docker.com/.. this is a free platform to download run and test docker images \u2026\"\n        },\n        {\n            \"url\": \"https://discourse.onlinedegree.iitm.ac.in/t/ga2-deployment-tools-discussion-thread-tds-jan-2025/161120/22\",\n            \"text\": \"Thank you, Sir! What is the Docker image source? It should look like: https://hub.docker.com/repository/docker/$USER/$REPO/general\\n\\nIf I use Podman, will the answer be correct assuming I have done all steps correctly?\"\n        },\n        {\n            \"url\": \"https://tds.s-anand.net/#/docker\",\n            \"text\": \"To build, run, and deploy the container, run these commands:\\n# Create an account on https://hub.docker.com/ and then login\\npodman\\nlogin docker.io\\n# Build and run the container\\npodman\\nbuild\\n-t\\npy-hello\\n. podman\\nrun\\n-it\\npy-hello\\n# Push the container to Docker Hub. Replace $DOCKER_HUB_USERNAME with your Docker Hub username.\"\n        },\n        {\n            \"url\": \"https://discourse.onlinedegree.iitm.ac.in/t/project-1-llm-based-automation-agent-discussion-thread-tds-jan-2025/164277/221\",\n            \"text\": \"But when I use podman i keep getting errror.\"\n        },\n        {\n            \"url\": \"https://discourse.onlinedegree.iitm.ac.in/t/project-1-llm-based-automation-agent-discussion-thread-tds-jan-2025/164277/27\",\n            \"text\": \"23f1002382:\\n\\nRegarding Wednenday 9-10 pm live session, maybe the instructors could also discuss how to use docker as a virtual environmen\\n\\n\\nIn Tuesday\u2019s(21 January) session we had discussed docker towards ending of session. What was discussed in that live session regarding docker:\\n\\nSearch for existing containers on repositories such as dockerhub. Pull an existing docker image.\"\n        },\n        {\n            \"url\": \"https://tds.s-anand.net/#/docker\",\n            \"text\": \"Containers: Docker, Podman\\nTools in Data Science\\nTools in Data Science\\n1. Development Tools\\nEditor: VS Code\\nAI Code Editors: GitHub Copilot\\nPython tools: uv\\nJavaScript tools: npx\\nUnicode\\nBrowser: DevTools\\nCSS Selectors\\nJSON\\nTerminal: Bash\\nAI Terminal Tools: llm\\nSpreadsheet: Excel, Google Sheets\\nDatabase: SQLite\\nVersion Control: Git, GitHub\\n2. Deployment Tools\\nMarkdown\\nImages: Compression\\nStatic hosting: GitHub Pages\\nNotebooks: Google Colab\\nServerless hosting: Vercel\\nCI/CD: GitHub Actions\\nContainers: Docker, Podman\\nContainers: Docker, Podman\\nDevContainers: GitHub Codespaces\\nTunneling: ngrok\\nCORS\\nREST APIs\\nWeb Framework: FastAPI\\nAuthentication: Google Auth\\nLocal LLMs: Ollama\\n3.\"\n        }\n    ]\n}\n\n\nNOTE : With the RAG out put I\u2019ve selected the top 10 outputs.\nWith the evalution from the promptfoo for the same question  I know Docker but have not used Podman before. Should I use Docker for this course? ther response was different.\n   {\n    \"answer\": \"Hello! \\n\\nFor this course, you can use either Docker or Podman, as both are capable containerization tools. However, based on the context provided, it seems that Docker Desktop might not be the preferred choice, especially for organizations or environments where licensing costs are a concern.\\n\\nIf you're already familiar with Docker, you can continue using it. If you're interested in exploring an alternative, Podman is a good option\u2014it is compatible with many Docker commands and offers similar functionality without requiring a daemon or root privileges.\\n\\nIn summary:\\n- If you're comfortable with Docker, you can proceed with it.\\n- If you'd like to try Podman, it's a suitable alternative and worth exploring.\\n\\nLet me know if you need guidance on setting up or using Podman!\",\n    \"links\": [\n        {\n            \"url\": \"https://discourse.onlinedegree.iitm.ac.in/t/161120/19\",\n            \"text\": \"@Nelson I would recommend Podman or Docker CE rather than Docker Desktop.\\nDocker Desktop is not free for organizations over 250 people and many organizations have therefore moved away from it.\"\n        },\n        {\n            \"url\": \"https://discourse.onlinedegree.iitm.ac.in/t/161083/17\",\n            \"text\": \"Hi Suhani,\\nnpm does not require docker.\\nKind regards\"\n        },\n        {\n            \"url\": \"https://discourse.onlinedegree.iitm.ac.in/t/167415/2\",\n            \"text\": \"The name of the Dockerfile should be \u201cDockerfile\u201d indeed, more over check other sections of your submission like\\n\\nIs the GitHub repo public?\\nDoes it have an MIT license?\\nDoes it have a DockerFile?\\nIs the Docker image accessible?\\n\"\n        }\n    ]\n}\n\nI have tried clearing the local cache using bleachbit I would clear all cache but nothing worked. Also https://tds.s-anand.net/#/docker is also present in the output from Curl command in the terminal. but not in the output from the promptfoo evauation                                                                                                                                                                  Help Please!!!"
+  },
+  {
+    "topic": "CORS settings for the deployed project",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/cors-settings-for-the-deployed-project/179183/1",
+    "content": "I have allowed https://exam.sanand.workers.dev in CORS of TDS project 1. Is this enough or should I give access to every site i.e [\u201c*\u201d] ?"
+  },
+  {
+    "topic": "CORS settings for the deployed project",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/cors-settings-for-the-deployed-project/179183/2",
+    "content": "@carlton sir, please clarify"
+  },
+  {
+    "topic": "A humble request to the TDS Course Team",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/a-humble-request-to-the-tds-course-team/179034/1",
+    "content": "@carlton and @Jivraj\nRespected Sir\nIt was my first time doing web scraping and other tasks required for this project. After watching the live sessions, I realized that my approach was wrong. The live sessions are really good but, they are being conducted too close to the deadline (started on 10th June). In the sessions, it was said that this project could be completed in a day, but I don\u2019t feel that this is the case for me (not even close), though that might just be my own inefficiency.\nAside from that, the method of using the Gemini model demonstrated in the sessions only allowed me to generate embeddings for the first 100 chunks (max per day), there are way more than that in my workflow. I have to spend time finding other alternatives to create embeddings before I make the final submission with the openAI api. So, I humbly request, if it is possible, please consider extending the deadline by a few days. There is not enough time to absorb what was taught in the live sessions and implement it as complete beginner.\nThank you."
+  },
+  {
+    "topic": "A humble request to the TDS Course Team",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/a-humble-request-to-the-tds-course-team/179034/2",
+    "content": "\n\n\n 23f1000917:\n\nAside from that, the method of using the Gemini model demonstrated in the sessions only allowed me to generate embeddings for the first 100 chunks (max per day), there are way more than that in my workflow. I have to spend time finding other alternatives to create embeddings before I make the final submission with the openAI api. So, I humbly request, if it is possible, please consider extending the deadline by a few days. There is not enough time to absorb what was taught in the live sessions and implement it as complete beginner.\n\n\nit will be helpful if deadline extended by 2-3 days"
+  },
+  {
+    "topic": "A humble request to the TDS Course Team",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/a-humble-request-to-the-tds-course-team/179034/3",
+    "content": "Yes sir please extend the deadline"
+  },
+  {
+    "topic": "A humble request to the TDS Course Team",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/a-humble-request-to-the-tds-course-team/179034/4",
+    "content": "please extend the deadline"
+  },
+  {
+    "topic": "A humble request to the TDS Course Team",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/a-humble-request-to-the-tds-course-team/179034/5",
+    "content": "please extend the deadline"
+  },
+  {
+    "topic": "A humble request to the TDS Course Team",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/a-humble-request-to-the-tds-course-team/179034/7",
+    "content": "Already extended till 18th.\n\n\n\nOn another topic\n\nPlease post any questions related to Project 1\nPlease use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It\u2019s easier for us to copy-paste and test.\nDeadline: 2025-06-14T18:29:00Z\nDeadline: 2025-06-18T18:29:00Z\n\n"
+  },
+  {
+    "topic": "Project 1 submission deadline",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-submission-deadline/179145/1",
+    "content": "@carlton  Sir could you please extend the deadline for the submission of the project-1 by one more day."
+  },
+  {
+    "topic": "Project 1 submission deadline",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-submission-deadline/179145/2",
+    "content": "Sir, Please check possibility of few days extension as some of the tasks requires throttling and unable to get it done on time."
+  },
+  {
+    "topic": "Npx -y promptfoo eval --config project-tds-virtual-ta-promptfoo.yaml error",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/npx-y-promptfoo-eval-config-project-tds-virtual-ta-promptfoo-yaml-error/179170/1",
+    "content": "\n\n\n\n\nnpx -y promptfoo eval --config project-tds-virtual-ta-promptfoo.yaml\ni am getting the following error \n expected output to contain \"https://discourse.online...\ncould you pls tell what changes should i make to my api code. thanks\n\n\nfrom fastapi import FastAPI\nfrom pydantic import BaseModel\nfrom typing import Optional, List\nimport json\nfrom fastapi.responses import JSONResponse\n\n# Load data from JSON file\nwith open(\"discourse_posts.json\", \"r\") as f:\n    discourse_posts = json.load(f)\n\napp = FastAPI()\n\n# Define request/response models\nclass QuestionRequest(BaseModel):\n    question: str\n    image: Optional[str] = None\n\nclass Link(BaseModel):\n    url: str\n    text: str\n\nclass AnswerResponse(BaseModel):\n    answer: str\n    links: List[Link]\n    url: str\n    topic_title: str\n\n@app.post(\"/api\", response_model=AnswerResponse)\nasync def get_answer(request: QuestionRequest):\n    print(\"Received question:\", request.question)\n    question = request.question\n    for post in discourse_posts:\n        if any(word.lower() in question.lower() for word in post[\"question_keywords\"]):\n            return AnswerResponse(\n                answer=post[\"answer\"],\n                links=[Link(**link) for link in post[\"links\"]],\n                url=post[\"url\"],\n                topic_title=post[\"topic_title\"]\n            )\n\n    # Default fallback response with required fields\n    return AnswerResponse(\n        answer=\"Sorry, I couldn't find an answer to your question.\",\n        links=[],\n        url=\"https://tds.s-anand.net/#/\",\n        topic_title=\"Unknown topic\"\n    )\n\n@app.get(\"/\")\nasync def read_root():\n    return {\"message\": \"TDS API server is running.\"}\n\n@app.get(\"/favicon.ico\")\nasync def favicon():\n    return {}\n\n\npls help @jivraj @hrithik"
+  },
+  {
+    "topic": "Npx -y promptfoo eval --config project-tds-virtual-ta-promptfoo.yaml error",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/npx-y-promptfoo-eval-config-project-tds-virtual-ta-promptfoo-yaml-error/179170/2",
+    "content": "@Jivraj @HritikRoshan_HRM"
+  },
+  {
+    "topic": "Github account made using the IITM email id keeps getting blocked",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/github-account-made-using-the-iitm-email-id-keeps-getting-blocked/179166/1",
+    "content": "Hello everyone,\nI have earlier submitted the project1 successfully and saved it to. Today i just wanted to verify if my submissions were still working as the project said (The URL should be accessible when the project team evaluates your submission.)\nThe API endpoint which i depolyed on Render is still working just fine\n(takes a little while when tested after a while for the application to start)\nbut the github repo which i used to deploy the project is not accesibible\nThis is second time my github account got blocked.\nAnd i am also unable to unblock it today as i have already surpassed the sms otp limit for the day (it was going to spam  )\nPlease let me know if i will be scored fairly"
+  },
+  {
+    "topic": "Having issue while submitting the project",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/having-issue-while-submitting-the-project/179139/1",
+    "content": "Hello, i decided to deploy my virtual assistant project for TDS May 2025 term on Render.\nthe url is accepting GET requests for \u201c/\u201d endpoint and POST requests for \u201c/api/\u201d endpoint as instructed by Sirs. but it seems that the form where i\u2019m supposed to provide github repo link and deployment public url, is sending an OPTIONS request to my Render deployed application, which it is dismissing by saying method not allowed. what to do??\nEDIT: enabling CORS let me send an OPTIONS request from the submission form so i was able to submit.\nlater i sent promptfoo as well as regular curls to Render url and they worked too. Although once it shut down, it just isn\u2019t starting back up again; sending curls now gives me some really long html and doesn\u2019t even send any api calls to the render url. what to do?\n@carlton @Jivraj"
+  },
+  {
+    "topic": "Hello I need some help",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/hello-i-need-some-help/179142/1",
+    "content": "I want some help in tds project"
+  },
+  {
+    "topic": "Drop Course Window",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/drop-course-window/179104/1",
+    "content": "@carlton sir I\u2019m unable to continue with the course, is it possible to drop course somehow, the option is not visible anywhere. Please guide.\nRegards\nNitin Dixit\n23f2005404"
+  },
+  {
+    "topic": "GA5 Question 8 Clarification",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939/1",
+    "content": "image756\u00d7295 19.5 KB\nThe question asks to use gpt-3.5-turbo-0125 model but the ai-proxy provided by Anand sir only supports gpt-4o-mini. So should we just use gpt-4o-mini or use the OpenAI API for gpt3.5 turbo?\n@carlton"
+  },
+  {
+    "topic": "GA5 Question 8 Clarification",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939/2",
+    "content": "I tried gpt-3.5-turbo-0125 with python\u2019s tiktoken library , I got a different value for prompt token compared gpt-4o-mini from the proxy api."
+  },
+  {
+    "topic": "GA5 Question 8 Clarification",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939/3",
+    "content": "My understanding is that you just have to use a tokenizer, similar to what Prof. Anand used, to get the number of tokens and multiply that by the given rate."
+  },
+  {
+    "topic": "GA5 Question 8 Clarification",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939/4",
+    "content": "Use the model that\u2019s mentioned in the question."
+  },
+  {
+    "topic": "GA5 Question 8 Clarification",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939/6",
+    "content": "The answer should be 0.00165 right."
+  },
+  {
+    "topic": "Hoe to get disclosure api",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/hoe-to-get-disclosure-api/179010/1",
+    "content": "can anyone help  with this problem"
+  },
+  {
+    "topic": "Hoe to get disclosure api",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/hoe-to-get-disclosure-api/179010/2",
+    "content": "discourse api is only for admins i guess but we need it for the project @pds_staff @andrew please help sir"
+  },
+  {
+    "topic": "Hoe to get disclosure api",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/hoe-to-get-disclosure-api/179010/3",
+    "content": "Please watch Project1 sessions present on youtube, First session for project 1 covers how to access discourse api\u2019s and get thread data."
+  },
+  {
+    "topic": "Doubt regarding Promptfoo in TDS Project 1",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/doubt-regarding-promptfoo-in-tds-project-1/179012/1",
+    "content": "My promptfoo is showing this output when I run it, but while using curl, i get appropriate response. What should I do?\nScreenshot 2025-06-12 at 11.38.44 PM3024\u00d7434 172 KB\nScreenshot 2025-06-12 at 11.37.17 PM1272\u00d71490 151 KB"
+  },
+  {
+    "topic": "Getting an api key error upon running npx -y promptfoo eval --config project-tds-virtual-ta-promptfoo.yaml",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/getting-an-api-key-error-upon-running-npx-y-promptfoo-eval-config-project-tds-virtual-ta-promptfoo-yaml/178878/1",
+    "content": "[FAIL] API error: 401  Unauthorized  {\u201cerror\u201d:{\u201cmessage\u201d:\"Inc\u2026 API key provided: sk-proj-*************** You can find your API key at https://platform.openai.\u2026"
+  },
+  {
+    "topic": "Getting an api key error upon running npx -y promptfoo eval --config project-tds-virtual-ta-promptfoo.yaml",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/getting-an-api-key-error-upon-running-npx-y-promptfoo-eval-config-project-tds-virtual-ta-promptfoo-yaml/178878/3",
+    "content": "@HritikRoshan_HRM sir @carlton sir could you pls help"
+  },
+  {
+    "topic": "Submissions of Weekly Graded Assignment of TDS",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/submissions-of-weekly-graded-assignment-of-tds/178618/1",
+    "content": "@Jivraj @21f3002441\nI have submitted the weekly graded assignments for Tools in Data science, from the correct google account and yet it has been showing not submitted from the past three weeks. Could you help me with this?\ncomplaint1900\u00d7874 122 KB, this is shown and yet it is showing not submitted in the grades section\nsimilar problem for all three weeks. Please let me know"
+  },
+  {
+    "topic": "Submissions of Weekly Graded Assignment of TDS",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/submissions-of-weekly-graded-assignment-of-tds/178618/2",
+    "content": "Hi @24f1002463\nWhat do you see on course page ? Nptel Seekh"
+  },
+  {
+    "topic": "Submissions of Weekly Graded Assignment of TDS",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/submissions-of-weekly-graded-assignment-of-tds/178618/3",
+    "content": "Thank you. There seems to be a glitch, because now, marks are visible on the course page but when I check grades individually for the course, it still says not submitted."
+  },
+  {
+    "topic": "Api Key Error",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/api-key-error/178898/1",
+    "content": "(venv) C:\\Users\\User\\Desktop\\TDS Folder>python scrape/embed_documents.py\n Embedding documents: 0it [00:00, ?it/s] Error getting embedding: Error code: 401 - {\u2018error\u2019: {\u2018message\u2019: \u2018Your authentication token is\nnot from a valid issuer.\u2019, \u2018type\u2019: \u2018invalid_request_error\u2019, \u2018param\u2019: None, \u2018code\u2019: \u2018invalid_issuer\u2019}}\n Embedding documents: 1it [00:00,  1.26it/s] Error getting embedding: Error code: 401 - {\u2018error\u2019: {\u2018message\u2019: \u2018Your authentication token\nis not from a valid issuer.\u2019, \u2018type\u2019: \u2018invalid_request_error\u2019, \u2018param\u2019: None, \u2018code\u2019: \u2018invalid_issuer\u2019}}\n Embedding documents: 2it [00:01,  1.95it/s] Error getting embedding: Error code: 401 - {\u2018error\u2019: {\u2018message\u2019: \u2018Your authentication token\nis not from a valid issuer.\u2019, \u2018type\u2019: \u2018invalid_request_error\u2019, \u2018param\u2019: None, \u2018code\u2019: \u2018invalid_issuer\u2019}}\n Embedding documents: 3it [00:01,  2.08it/s]"
+  },
+  {
+    "topic": "Api Key Error",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/api-key-error/178898/2",
+    "content": "description: \"TDS Virtual TA Project Sample (but not the actual evaluation) Questions\"\n\nproviders:\n  - id: https\n    config:\n      url: YOUR_API_ENDPOINT # Replace this with your API endpoint\n      method: POST\n      headers:\n        Content-Type: application/json\n      body: |\n        {\n          \"question\": \"{{ question }}\"{% if image %},\n          \"image\": \"{{ image }}\"{% endif %}\n        }\n      transformResponse: json\n\n# Ensure JSON schema\ndefaultTest:\n  options:\n    provider:\n      id: https\n      config:\n        url: https://aiproxy.sanand.workers.dev/openai/v1/chat/completions\n        method: POST\n        headers:\n          Content-Type: application/json\n          Authorization: Bearer YOUR_API_KEY  # Replace with your token\n        body: |\n          {\n            \"model\": \"gpt-4o-mini\",\n            \"messages\": [\n              {\"role\": \"system\", \"content\": \"You are an evaluator that checks if an output meets specific criteria. Analyze the output based on the given rubric and respond with a JSON object containing {\\\"reason\\\": \\\"your analysis\\\", \\\"score\\\": number between 0.0 and 1.0, \\\"pass\\\": true/false}.\"},\n              {\"role\": \"user\", \"content\": \"Output to evaluate: {{ output }}\\n\\nRubric: {{ rubric }}\"}\n            ],\n            \"temperature\": 0\n          }\n        transformResponse: json\n\n  assert:\n    - type: is-json\n      value:\n        type: object\n        required: [answer, links]\n        properties:\n          answer: { type: string }\n          links:\n            type: array\n            items:\n              type: object\n              required: [url, text]\n              properties:\n                url: { type: string }\n                text: { type: string }\n\ntests:\n  - vars:\n      question: The question asks to use gpt-3.5-turbo-0125 model but the ai-proxy provided by Anand sir only supports gpt-4o-mini. So should we just use gpt-4o-mini or use the OpenAI API for gpt3.5 turbo?\n      image: file://project-tds-virtual-ta-q1.webp\n      link: https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939\n    assert:\n      - type: llm-rubric\n        transform: output.answer\n        value: Clarifies use of gpt-3.5-turbo-0125 not gpt-4o-mini\n      - type: contains\n        transform: JSON.stringify(output.links)\n        value: https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939\n\n  - vars:\n      question: If a student scores 10/10 on GA4 as well as a bonus, how would it appear on the dashboard?\n      link: https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-jan-2025/165959/388\n    assert:\n      - type: llm-rubric\n        transform: output.answer\n        value: Mentions the dashboard showing \"110\"\n      - type: contains\n        transform: JSON.stringify(output.links)\n        value: https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-jan-2025/165959\n  - vars:\n      question: I know Docker but have not used Podman before. Should I use Docker for this course?\n    assert:\n      - type: llm-rubric\n        transform: output.answer\n        value: Recommends Podman for the course\n      - type: llm-rubric\n        transform: output.answer\n        value: Mentions that Docker is acceptable\n      - type: contains\n        transform: JSON.stringify(output.links)\n        value: https://tds.s-anand.net/#/docker\n  - vars:\n      question: When is the TDS Sep 2025 end-term exam?\n    assert:\n      - type: llm-rubric\n        transform: output.answer\n        value: Says it doesn't know (since this information is not available yet)\n\nwriteLatestResults: true\n\ncommandLineOptions:\n  cache: true\n\nMake sure to replace \u201cYOUR_API_KEY\u201d with the API key that you have and \u201cYOUR_API_ENDPOINT\u201d with the URL and port you are running your API.\nNo need to keep the url and api_key in quotes, just paste them as it is."
+  },
+  {
+    "topic": "Guide for tds project 1",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/guide-for-tds-project-1/178649/1",
+    "content": "Where can I get a reference or some material that may Guide me to complete the project."
+  },
+  {
+    "topic": "Guide for tds project 1",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/guide-for-tds-project-1/178649/2",
+    "content": "\n\ngithub.com\n\n\n\n\nGitHub - 23f3004008/TDS-Project1-Data\nContribute to 23f3004008/TDS-Project1-Data development by creating an account on GitHub.\n\n\n\n\n\n\nThis is a good starting point for web scraping"
+  },
+  {
+    "topic": "How to find API key for discourse page",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/how-to-find-api-key-for-discourse-page/178166/1",
+    "content": "I want to access the API key of dicourse page for tds project 1. kindly suggest some ways to access it."
+  },
+  {
+    "topic": "How to find API key for discourse page",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/how-to-find-api-key-for-discourse-page/178166/2",
+    "content": "You need to access it somewhat like:\nCOOKIES = {\n    \"_t\": \" YOUR_COOKIE\"\n}\n\nBASE_URL = \"https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34\"\nHEADERS = {\n    \"User-Agent\": \"Mozilla/5.0\",\n}\n\nsession = requests.Session()\nsession.headers.update(HEADERS)\nsession.cookies.update(COOKIES)\n\nto get your _t, go to inspect->application->cookies->_t cookie there\ncopy paste whatever i wrote and chatgpt it, it will elaborate for you, if required "
+  },
+  {
+    "topic": "How to find API key for discourse page",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/how-to-find-api-key-for-discourse-page/178166/3",
+    "content": "Where can I get a reference or some material that may Guide me to complete the project"
+  }
+]
