@@ -6,6 +6,8 @@ import openai
 import json
 import difflib
 import os
+import requests
+
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 app = FastAPI()
@@ -22,12 +24,17 @@ class Query(BaseModel):
 
 @app.post("/api/")
 async def respond(query: Query):
-    if query.image:
-        with open("temp_image.webp", "wb") as f:
-            f.write(base64.b64decode(query.image))
+    try:
+        print("✅ Received Query:", query.question)
 
-    context = "\n\n".join([post["content"] for post in discourse_data[:20]])
-    prompt = f"""
+        if query.image:
+            print("🖼️ Decoding image...")
+            with open("temp_image.webp", "wb") as f:
+                f.write(base64.b64decode(query.image))
+
+        print("🧠 Preparing prompt...")
+        context = "\n\n".join([post["content"] for post in discourse_data[:20]])
+        prompt = f"""
 You are a TDS Teaching Assistant. Answer the following question clearly and concisely.
 Question: {query.question}
 
@@ -35,22 +42,35 @@ Course Content: {course_data[:1000]}
 Discourse Posts (Sample):
 {context[:2000]}
 """
+        print("📡 Sending prompt to OpenAI...")
 
-    client = openai.OpenAI(api_key=openai.api_key)
-    response = client.chat.completions.create(
-    model="gpt-4o-mini",
-    messages=[{"role": "user", "content": prompt}],
-    temperature=0.3
-)
+        
+        response = openai.ChatCompletion.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": query.question}],
+            temperature=0.3
+        )
 
-    links = [d for d in discourse_data if query.question.lower() in d["content"].lower()]
-    response_links = [{"url": l["url"], "text": l["content"][:80]} for l in links[:2]]
+        print("✅ OpenAI Response Received")
 
-    return {
-        "answer": response.choices[0].message.content,
-        "links": response_links
-    }
+        links = [d for d in discourse_data if query.question.lower() in d["content"].lower()]
+        response_links = [{"url": l["url"], "text": l["content"][:80]} for l in links[:2]]
+
+        return {
+            "answer": response.choices[0].message.content,
+            "links": response_links
+        }
+
+    except Exception as e:
+        print("❌ ERROR IN API:", e)
+        return {"error": str(e)}
+
+
+    
+
 def search_relevant_posts(question):
     """Finds closest Discourse posts based on the query."""
     best_matches = difflib.get_close_matches(question, [d["content"] for d in discourse_data], n=2)
     return [{"url": d["url"], "text": d["content"][:80]} for d in discourse_data if d["content"] in best_matches]
+
+

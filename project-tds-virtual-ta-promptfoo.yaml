@@ -1,14 +1,17 @@
 providers:
-  - id: "api"
+  - id: "virtual-ta-api"
     config:
-      url: "https://your-deployment-url/api/"
+      url: "https://tds-virtual-ta-yb2i.onrender.com/api/"
       method: "POST"
       headers:
         Content-Type: application/json
+
 scenarios:
-  - name: "Sample test"
-    vars:
-      question: "What model should I use for GA5?"
-    assert:
-      - type: contains
-        value: "gpt-3.5"
+  - name: "Model Choice"
+    prompt: "Should I use gpt-4o-mini which AI proxy supports, or gpt3.5 turbo?"
+  - name: "Token Cost"
+    prompt: "How do I calculate token costs when using GPT models?"
+  - name: "Assignment Rule"
+    prompt: "Can I use gpt-4 for the assignment or only the specified one?"
+
+
