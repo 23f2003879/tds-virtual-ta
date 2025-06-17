@@ -1,8 +1,8 @@
 from fastapi import FastAPI, Request
 from pydantic import BaseModel
 from typing import List, Optional
+from openai import OpenAI
 import base64
-import openai
 import json
 import difflib
 import os
@@ -44,12 +44,13 @@ Discourse Posts (Sample):
 """
         print("📡 Sending prompt to OpenAI...")
 
-        
-        response = openai.ChatCompletion.create(
+        client = OpenAI()
+
+        response = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[{"role": "user", "content": query.question}],
             temperature=0.3
-        )
+)
 
         print("✅ OpenAI Response Received")
 
