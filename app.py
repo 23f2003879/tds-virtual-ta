@@ -24,10 +24,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 @app.get("/")
 def root():
-    return {"message": "TDS Virtual TA is live!"}
+    return {"message": "TDS Virtual TA API is live!"}
 
 
 try:
