@@ -26,8 +26,8 @@ app.add_middleware(
 )
 
 @app.get("/")
-async def root():
-    return {"message": "Welcome to Virtual TA! Use /api/ for queries."}
+def read_root():
+    return {"message": "Welcome to TDS Virtual TA"}
 
 try:
     with open("data/discourse_posts.json") as f:
