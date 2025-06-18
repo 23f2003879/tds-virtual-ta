@@ -7,10 +7,13 @@ import json
 import difflib
 import os
 
-api_key = os.getenv("OPENAI_API_KEY")
-if not api_key:
-    raise ValueError("❌ OPENAI_API_KEY environment variable not set.")
-client = OpenAI(api_key=api_key)
+openai_key = os.getenv("OPENAI_API_KEY")
+if not openai_key:
+    print("❌ OPENAI_API_KEY environment variable not set. Exiting...")
+    import sys
+    sys.exit(1)
+
+client = OpenAI(api_key=openai_key)
 
 app = FastAPI()
 
@@ -54,11 +57,15 @@ Discourse Posts (Sample):
 {context[:2000]}
 """
         print("📡 Sending prompt to OpenAI...")
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.3
-)
+        try:
+            response = client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.3
+            )
+        except OpenAIError as oe:
+            print("❌ OpenAI API Error:", oe)
+            return {"error": str(oe)}
         print("✅ OpenAI Response Received")
 
         links = [
