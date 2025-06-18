@@ -25,6 +25,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
+@app.get("/")
+def root():
+    return {"message": "TDS Virtual TA is live"}
+
 try:
     with open("data/discourse_posts.json") as f:
         discourse_data = json.load(f)
@@ -44,10 +49,6 @@ class Query(BaseModel):
     question: str
     image: Optional[str] = None
 
-
-@app.get("/")
-def root():
-    return {"message": "TDS Virtual TA is live"}
 
 
 @app.post("/api/")
