@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
 from pydantic import BaseModel
 from typing import Optional
 from openai import OpenAI, OpenAIError
@@ -28,6 +28,9 @@ app.add_middleware(
 def root():
     return {"message": "TDS Virtual TA API is live!"}
 
+@app.post("/")
+async def root_post(request: Request):
+    return {"message": "TDS Virtual TA API received your POST!"}
 
 try:
     with open("data/discourse_posts.json") as f:
