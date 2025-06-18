@@ -27,7 +27,7 @@ app.add_middleware(
 
 
 @app.get("/")
-def root():
+async def root():
     return {"message": "TDS Virtual TA is live"}
 
 try:
