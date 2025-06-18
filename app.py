@@ -2,10 +2,12 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Optional
 from openai import OpenAI, OpenAIError
+from fastapi.middleware.cors import CORSMiddleware
 import base64
 import json
 import difflib
 import os
+
 
 openai_key = os.getenv("OPENAI_API_KEY")
 if not openai_key:
@@ -16,6 +18,13 @@ if not openai_key:
 client = OpenAI(api_key=openai_key)
 
 app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 try:
     with open("data/discourse_posts.json") as f:
@@ -35,6 +44,12 @@ except Exception as e:
 class Query(BaseModel):
     question: str
     image: Optional[str] = None
+
+
+@app.get("/")
+def root():
+    return {"message": "TDS Virtual TA is live"}
+
 
 @app.post("/api/")
 async def respond(query: Query):
